@@ -10,7 +10,7 @@ Silakan gunakan tautan di bawah ini untuk menjelajahi dokumentasi dan menjalanka
 
 | Layanan | Tautan |
 | :--- | :--- |
-| **📄 Dokumentasi (GDoc)** | [Klik di Sini untuk Google Doc]() |
+| **📄 Dokumentasi (GDoc)** | [Klik di Sini untuk Google Doc](https://github.com/ricky1211/Project_UAS-Digital-Marketing-KLMPK-/blob/main/Laporan_Proyek-DIGITAKMarketing.pdf) |
 | **💻 Program Utama** | [Buka Aplikasi/Program](https://project-uas-digital-marketing-klmpk.vercel.app/) |
 
 ---
